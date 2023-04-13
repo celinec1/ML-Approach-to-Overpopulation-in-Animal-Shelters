@@ -6,5 +6,6 @@ The goal is to provide insights into what factors contribute to certain outcomes
 
 
 Methodology
+
 I analyzed the "Austin Animal Center Shelter Intakes and Outcomes" dataset using data science techniques, including exploratory data analysis and statistical modeling. I used MATLAB programming language to visualize and analyze the data.
 
